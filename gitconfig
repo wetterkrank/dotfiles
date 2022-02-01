@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = wetterkrank@gmail.com
+	name = Aleksandr Antciferov
